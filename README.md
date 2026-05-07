@@ -15,6 +15,7 @@ Traditional rule-based security systems often fail to detect sophisticated, low-
 ## Project Structure
 
 auth-anomaly-detection/
+
 ├── data/
 │   └── synthetic_auth_logs.csv   # Generated dataset
 ├── notebooks/                    # Jupyter notebooks for EDA (optional)
